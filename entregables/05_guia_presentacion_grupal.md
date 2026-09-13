@@ -2,9 +2,29 @@
 
 > **Reemplaza el enfoque de [`02_guia_presentacion_15min.md`](02_guia_presentacion_15min.md)** (que queda como versión histórica de una charla individual de 15 min). Esta es una presentación grupal con 4 oradores confirmados, arco narrativo completo (de la comparación de entrenamiento a un cierre ficcional/dramático) y un tramo final construido sobre ciencia real (mapeo del conectoma de la mosca) que da el salto, explícitamente marcado como especulación, hacia "I Have No Mouth, and I Must Scream".
 >
-> **Duración asumida: ~30 minutos.** El pedido original no especificó tiempo total — con 4 oradores y este alcance de contenido, 15 minutos no alcanza. Si el tiempo real asignado es distinto, reescalar los bloques proporcionalmente (la tabla de §1 tiene los minutos exactos para recalcular fácil). **Avisame el tiempo real y reajusto.**
+> **Duración confirmada: "paseo rápido" — 5-10 min de contenido + 5 min de video (~15 min total).** Se reemplazó la versión de ~30 minutos de §1 por la versión condensada de §0.bis. El contenido y las fuentes de cada bloque (§2-§11) siguen siendo el banco de referencia que cada orador lee antes de presentar — la versión corta solo dice qué recortar y qué decir rápido, no reescribe el contenido de cero.
 >
-> **Fecha:** 2026-09-13
+> **Fecha:** 2026-09-13 (actualizado el mismo día a versión condensada)
+
+---
+
+## 0.bis — Versión condensada ("paseo rápido", ~15 min total)
+
+| # | Bloque | Orador | Duración | Acumulado | Qué hacer con el contenido de abajo |
+|---|---|---|---|---|---|
+| A | Apertura relámpago: cómo se entrena una IA (+ mención rápida de cómo aprendemos nosotros) | Cristian | 1:30 | 1:30 | De §2: solo el ciclo de RL + una frase de condicionamiento operante. **Sin pausa larga de pregunta al público** — lanzarla como retórica ("quédense pensando esto") y seguir. |
+| B | La startup + cómo entrena neuronas reales | Cristian → Jared | 1:30 | 3:00 | Fusión de §3+§4: DishBrain/CL1 en una frase, el diagrama de mecanismo en una sola imagen, sin desglosar los dos paradigmas técnicos (activo vs. reservoir) — mencionarlo en una línea si da el tiempo. |
+| C | El bebé en la sala blanca | Catarina | 1:00 | 4:00 | De §5: solo la pregunta incómoda + el paralelo de consentimiento, sin desarrollar la asimetría histórica de Skinner. |
+| D | Ventajas, el matiz y el vacío regulatorio | Kyoto | 1:30 | 5:30 | Fusión de §6: una ventaja (eficiencia), un matiz (CL1 real), un dato regulatorio (el semáforo de 3 niveles) — cortar ahí. |
+| E | La carrera que nadie frena | *a asignar* | 1:30 | 7:00 | Fusión de §7+§8: el dato de METR en una frase + los 3 momentos de CEOs comprimidos a la cita de Amodei/Altman de 2026 nada más (es la más fuerte y la más reciente; las de 2023 quedan de contexto disponible si preguntan). |
+| F | El giro: la mosca mapeada y simulada | *a asignar* | 1:30 | 8:30 | De §9: FlyWire + la simulación corriendo en una laptop, sin el detalle de neurotransmisores ni comportamientos específicos — un dato de escala (139.255 neuronas) y un logro (predice comportamiento real). |
+| G | El salto especulativo + "esto ya es ficción" | *a asignar* | 1:00 | 9:30 | De §10: la cita de Shiu + el freno de escala (~600.000x) en una sola diapositiva compartida, y el anuncio explícito de giro a ficción — sin la viñeta narrada completa, dejarla insinuada. |
+| H | **VIDEO** | — | 5:00 | 14:30 | Reproducción del material de "I Have No Mouth, and I Must Scream" — ver §12, sigue aplicando igual. |
+| I | Frase final + créditos animados | — | ~0:30-1:00 | ~15:00-15:30 | Igual que §11, sin recortar — es corto de por sí y es el cierre. |
+
+**Qué se cae por completo en esta versión:** la pausa interactiva extendida del bloque 1 original, el desglose técnico profundo de Jared (mecanismo activo vs. reservoir computing), el desarrollo histórico de Skinner en el bloque de Catarina, la línea de tiempo completa de 3 momentos de CEOs (queda solo el más fuerte), y la viñeta narrada completa del cierre (queda insinuada, no leída entera). Todo ese contenido **sigue documentado abajo** por si el tiempo real permite recuperar algo o alguien pregunta en la ronda posterior.
+
+---
 
 ---
 
