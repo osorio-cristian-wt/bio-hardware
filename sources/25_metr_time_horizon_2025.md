@@ -34,3 +34,7 @@ Ninguna directa sobre biocomputación — es el dato de aceleración de la IA de
 ## Observaciones
 
 ⚠️ Los propios autores marcan explícitamente incertidumbre en su medición: "the possibility of substantial model error" y que sus estimaciones podrían estar "off by a factor of 10x". Citar el dato con ese matiz de incertidumbre explícita — es consistente con el estándar de rigor del resto del corpus, y evita presentar la aceleración como una ley física exacta cuando es una medición metodológicamente compleja y con incertidumbre reconocida por quienes la hicieron.
+
+## Referencia en formato APA
+
+METR. (2025, March 19). *Measuring AI ability to complete long software tasks*. https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/

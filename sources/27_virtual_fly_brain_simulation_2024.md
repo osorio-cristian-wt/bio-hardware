@@ -1,8 +1,9 @@
 # De la mosca real a la mosca virtual: la simulación del cerebro completo corre en una laptop (Shiu et al., Nature, oct. 2024)
 
-- **URL:** https://news.berkeley.edu/2024/10/02/researchers-simulate-an-entire-fly-brain-on-a-laptop-is-a-human-brain-next/
+- **URL (paper principal, verificado):** https://doi.org/10.1038/s41586-024-07763-9 (Shiu et al., 2024 — "A Drosophila computational brain model reveals sensorimotor processing")
+- **URL secundaria (cobertura + posible foto de la laptop):** https://news.berkeley.edu/2024/10/02/researchers-simulate-an-entire-fly-brain-on-a-laptop-is-a-human-brain-next/
 - **Fecha de consulta:** 2026-09-13
-- **Tipo:** académico (*Nature*, 2/10/2024, equipo liderado por Phil Shiu, UC Berkeley) — ficha basada en cobertura institucional de la propia universidad
+- **Tipo:** académico (*Nature*, vol. 634, 2/10/2024, equipo liderado por Phil Shiu — Janelia Research Campus / UC Berkeley)
 
 ## Resumen del contenido
 
@@ -39,4 +40,10 @@ El modelo demuestra que **la sola estructura del conectoma, sin necesitar simula
 
 ## Observaciones
 
-Ficha reconstruida a partir de la cobertura institucional de UC Berkeley (fuente secundaria de alta fiabilidad, con cita directa del investigador), dado que el acceso directo a *Nature* no se verificó en esta sesión. Verificar el DOI exacto del paper antes de citarlo en un contexto formal/académico (no solo de presentación).
+Ficha reconstruida a partir de la cobertura institucional de UC Berkeley (fuente secundaria de alta fiabilidad, con cita directa del investigador); el DOI del paper principal ya se verificó de forma independiente (ver arriba).
+
+**Para la imagen de "esto corriendo en una laptop" (pedida para el diseño):** la nota de Berkeley News (URL secundaria arriba) es la cobertura que originó la frase "runs on a laptop" y es el lugar más probable de tener una foto real asociada — usarla como referencia antes de diseñar el placeholder, no inventar una imagen genérica de laptop.
+
+## Referencia en formato APA
+
+Shiu, P. K., Sterne, G. R., Spiller, N., Franconville, R., Sandoval, A., Zhou, J., Simha, N., Kang, C. H., Yu, S., Kim, J. S., Dorkenwald, S., Matsliah, A., Schlegel, P., Yu, S., McKellar, C. E., Sterling, A., Costa, M., Eichler, K., Bates, A. S., … Bidaye, S. S. (2024). A *Drosophila* computational brain model reveals sensorimotor processing. *Nature*, *634*(8032), 210–219. https://doi.org/10.1038/s41586-024-07763-9

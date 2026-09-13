@@ -54,3 +54,7 @@ Es el paper "manifiesto" del campo: fija el vocabulario (OI), el argumento de ef
 ## Observaciones
 
 ⚠️ El argumento de "10⁶ veces más eficiente" compara el **cerebro humano completo** (86.000 millones de neuronas) contra una supercomputadora, no un organoide de 100.000 células contra un chip equivalente. Es un salto retórico que reaparece sin matizar en cobertura de prensa y marketing (ver [15](15_orf_organoid_intelligence_overview.md), [05](05_finalspark_neuroplatform_2024.md)) — útil señalarlo en el debate como ejemplo de "ventaja proyectada, no demostrada a escala".
+
+## Referencia en formato APA
+
+Smirnova, L., Caffo, B. S., Gracias, D. H., Huang, Q., Morales Pantoja, I. E., Tang, B., Zack, D. J., Berlinicke, C. A., Boyd, J. L., Harris, T. D., Johnson, E. C., Kagan, B. J., Kahn, J., Muotri, A. R., Paulhamus, B. L., Schwamborn, J. C., Plotkin, J. B., Szalay, A. S., Vogelstein, J. T., Worley, P. F., & Hartung, T. (2023). Organoid intelligence (OI): The new frontier in biocomputing and intelligence-in-a-dish. *Frontiers in Science*, *1*, Article 1017235. https://doi.org/10.3389/fsci.2023.1017235

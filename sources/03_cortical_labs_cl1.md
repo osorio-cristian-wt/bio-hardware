@@ -44,3 +44,11 @@ Es la prueba de que esto **ya no es solo investigación de laboratorio**: hay un
 ## Observaciones
 
 Wikipedia no menciona competidores directos en el propio artículo, pero la investigación paralela identifica a **FinalSpark** ([05](05_finalspark_neuroplatform_2024.md)) como el otro actor comercial activo del sector — con un modelo de negocio distinto (acceso remoto a organoides compartidos vs. venta de hardware dedicado).
+
+**Para la foto del chip/circuito físico real (pedida para el diseño):** no hay una imagen verificada en esta sesión, pero la cobertura especializada citada abajo (DataCenterDynamics, BioPharmaTrend) suele acompañar sus notas con fotos reales del hardware del CL1 — revisar esas notas antes de diseñar el placeholder, en vez de generar una imagen genérica.
+
+## Referencia en formato APA
+
+Wikipedia contributors. (2026). *Cortical Labs*. Wikipedia. https://en.wikipedia.org/wiki/Cortical_Labs
+
+Datacenter Dynamics. (2025). *Australian startup Cortical Labs unveils 'world's first' commercial biological computer*. https://www.datacenterdynamics.com/en/news/australian-startup-cortical-labs-unveils-worlds-first-commercial-biological-computer/

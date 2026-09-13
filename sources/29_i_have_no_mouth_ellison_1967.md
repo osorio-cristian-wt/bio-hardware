@@ -30,3 +30,7 @@ Ninguna — es ficción. Cualquier conexión con la tecnología real documentada
 ## Observaciones
 
 ⚠️ **Uso responsable en la presentación:** marcar explícitamente, en el momento de introducir esta referencia, que se trata de ficción de 1967 usada como recurso narrativo/alegórico — no presentarla como una proyección científica de lo que "va a pasar". Es la misma disciplina de "separar evidencia de especulación" que el resto del corpus aplica a cifras de marketing ([analisis/01](../analisis/01_ventajas_y_desventajas_tecnicas.md)), ahora aplicada a un recurso dramático. Ver el tratamiento completo de este límite en [analisis/04](../analisis/04_de_la_mosca_a_la_ficcion_ciencia_real_vs_especulacion.md).
+
+## Referencia en formato APA
+
+Ellison, H. (1967). I have no mouth, and I must scream. *IF: Worlds of Science Fiction*.

@@ -1,9 +1,11 @@
 # FlyWire: el primer conectoma completo de un cerebro adulto (Drosophila, Nature 2024)
 
-- **URL:** https://www.nature.com/articles/s41586-024-07686-5
-- **URL secundaria:** https://www.nature.com/immersive/d42859-024-00053-4/index.html
+- **URL (paper principal):** https://doi.org/10.1038/s41586-024-07558-y (Dorkenwald et al., 2024 — "Neuronal wiring diagram of an adult brain")
+- **URL (paper compañero, anotación de tipos celulares):** https://doi.org/10.1038/s41586-024-07686-5 (Schlegel et al., 2024)
+- **URL (explorador visual del conectoma):** https://codex.flywire.ai/ — Codex, la herramienta pública para navegar y visualizar en 3D cualquier neurona del conectoma
+- **URL secundaria (reportaje inmersivo con renders):** https://www.nature.com/immersive/d42859-024-00053-4/index.html
 - **Fecha de consulta:** 2026-09-13
-- **Tipo:** académico (*Nature*, octubre 2024 — consorcio internacional FlyWire)
+- **Tipo:** académico (*Nature*, vol. 634, 2/10/2024 — consorcio internacional FlyWire)
 
 ## Resumen del contenido
 
@@ -40,3 +42,11 @@ Sienta la base de datos que hace posible la simulación virtual de un cerebro co
 ## Observaciones
 
 Aclarar en la presentación: **139.255 neuronas** es la escala real lograda — comparar explícitamente con el cerebro humano (~86.000 millones de neuronas, ver [28](28_whole_brain_emulation_feasibility.md)) para que el público entienda la magnitud real de la brecha antes de dar el salto especulativo.
+
+**Para la imagen del mapeo neuronal (pedida para el diseño):** el material visual real más citable es el explorador **Codex** (codex.flywire.ai) — permite tomar una captura de pantalla legítima de la visualización 3D del conectoma, y el reportaje inmersivo de *Nature* (URL secundaria arriba) tiene renders ya preparados para publicación. No inventar un render genérico — usar uno de estos dos como referencia real antes de diseñar el placeholder.
+
+## Referencia en formato APA
+
+Dorkenwald, S., Matsliah, A., Sterling, A. R., Schlegel, P., Yu, S. C., McKellar, C. E., Lin, A., Costa, M., Eichler, K., Yin, Y., Silversmith, W., Schneider-Mizell, C., Jordan, C. S., Brittain, D., Halageri, A., Kuehner, K., Ogedengbe, O., Morey, R., Gager, J., … Murthy, M. (2024). Neuronal wiring diagram of an adult brain. *Nature*, *634*(8032), 124–138. https://doi.org/10.1038/s41586-024-07558-y
+
+Schlegel, P., Yin, Y., Bates, A. S., Dorkenwald, S., Eichler, K., Brooks, P., Han, D. S., Gkantia, M., dos Santos, M., Munnelly, E. J., Badalamente, G., Chlebikova, K., Dutta, A., Peng, F., Kellerman, C. M., Miguel, K., Sun, X., … Jefferis, G. S. X. E. (2024). Whole-brain annotation and multi-connectome cell typing quantifies circuit stereotypy in *Drosophila*. *Nature*, *634*(8032), 139–152. https://doi.org/10.1038/s41586-024-07686-5

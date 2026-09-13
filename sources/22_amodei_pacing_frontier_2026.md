@@ -24,7 +24,13 @@ El sábado 12 de septiembre de 2026, Dario Amodei (CEO de Anthropic) publicó un
 
 **Aclaración explícita del propio Amodei:** "Pacing does not mean halting model training or technical progress, but ensuring companies take adequate time to align and safeguard their models, and for third party evaluators to confirm this."
 
-**La respuesta de Sam Altman (OpenAI), en X, el mismo día:** "I agree with Dario that we need to pace the frontier" — e indicó que OpenAI adoptaría una de las salvaguardas propuestas por Amodei.
+**La respuesta de Sam Altman (OpenAI), en X, el mismo día:** "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great idea, and we will do the same." (https://x.com/sama/status/2098811563415150910)
+
+**La respuesta de Elon Musk (xAI), en X, el mismo día:** "Dario is right" (https://x.com/elonmusk/status/2098789109980332057) — ampliada después con: "Dario is right that there should be some oversight. Peer review of AI by competitors is the right way to start this off." (https://x.com/elonmusk/status/2098986888572907643)
+
+**El ensayo original de Amodei, publicado en su propio sitio:** https://darioamodei.com/post/we-must-pace-the-frontier — y anunciado en X: https://x.com/DarioAmodei/status/2098773920774074715
+
+**El contrapunto que rompe la unanimidad:** la Casa Blanca (gobierno de EE.UU.) rechazó el pedido conjunto de los tres CEOs, con la postura de que "quien gane con la IA, gana" ("whoever wins with AI wins") — mostrando que ni siquiera el acuerdo excepcional entre competidores directos (Anthropic, OpenAI, xAI) alcanza para mover la política real.
 
 ## Relevancia para la presentación
 
@@ -44,4 +50,14 @@ El propio Amodei distingue "pacear" de "detener" — es un matiz importante para
 
 ## Observaciones
 
-Es una noticia de apenas un día de antigüedad respecto a esta investigación (12/09/2026 vs. 13/09/2026) — verificar si hay desarrollos posteriores antes de presentar, dado lo rápido que se mueve este tema. El artículo original de CNN (fuente primaria de la noticia) devolvió error 451 ("unavailable for legal reasons", posible bloqueo geográfico) — esta ficha se reconstruyó con NBC News y The Hill como fuentes secundarias independientes que coinciden en los datos centrales.
+Es una noticia de apenas un día de antigüedad respecto a esta investigación (12/09/2026 vs. 13/09/2026) — verificar si hay desarrollos posteriores antes de presentar, dado lo rápido que se mueve este tema. El artículo original de CNN (fuente primaria de la noticia) devolvió error 451 ("unavailable for legal reasons", posible bloqueo geográfico) — esta ficha se reconstruyó con NBC News y The Hill como fuentes secundarias independientes que coinciden en los datos centrales; los permalinks de X sí se verificaron de forma directa.
+
+## Referencia en formato APA
+
+Amodei, D. (2026, September 12). *We must pace the frontier*. https://darioamodei.com/post/we-must-pace-the-frontier
+
+Amodei, D. [@DarioAmodei]. (2026, September 12). *We Must Pace the Frontier: I've written a new essay...* [Post]. X. https://x.com/DarioAmodei/status/2098773920774074715
+
+Altman, S. [@sama]. (2026, September 12). *I agree with Dario that we need to pace the frontier...* [Post]. X. https://x.com/sama/status/2098811563415150910
+
+Musk, E. [@elonmusk]. (2026, September 12). *Dario is right* [Post]. X. https://x.com/elonmusk/status/2098789109980332057

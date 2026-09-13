@@ -31,4 +31,8 @@ Es el experimento "ancla" que dispara toda la cobertura mediática y el debate �
 
 ## Observaciones
 
-⚠️ El texto completo del paper (cell.com) devolvió error 403 (paywall/bloqueo de bot) y PubMed no sirvió el abstract sin cookies — esta ficha se reconstruyó con cobertura secundaria de alta fiabilidad (Monash University press release, UCL News, ScienceDirect metadata) más el hallazgo de búsqueda directa. Si se necesita citar textualmente el abstract original para el debate, conseguir el PDF vía acceso institucional antes de citarlo como cita literal.
+⚠️ El texto completo del paper (cell.com) devolvió error 403 (paywall/bloqueo de bot) y PubMed no sirvió el abstract sin cookies — esta ficha se reconstruyó con cobertura secundaria de alta fiabilidad (Monash University press release, UCL News, ScienceDirect metadata) más el hallazgo de búsqueda directa. Si se necesita citar textualmente el abstract original para el debate, conseguir el PDF vía acceso institucional antes de citarlo como cita literal. La referencia bibliográfica (autores, volumen, páginas, DOI) sí se verificó de forma independiente.
+
+## Referencia en formato APA
+
+Kitchen, A. C., Kagan, B. J., Tran, N. T., Habibollahi, F., Khajehnejad, M., Parker, B. J., Bhat, A., Rollo, B., Razi, A., & Friston, K. J. (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. *Neuron*, *110*(23), 3952–3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001
