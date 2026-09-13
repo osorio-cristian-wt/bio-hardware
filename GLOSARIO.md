@@ -21,5 +21,12 @@
 | **CL1** | Producto comercial de Cortical Labs (lanzado 2025): computadora biológica con ~800.000 neuronas humanas sobre un chip de 59 electrodos, USD 35.000. |
 | **Neuroplatform** | Plataforma comercial/académica de FinalSpark que da acceso remoto pago a organoides cerebrales vivos vía la nube ("wetware-as-a-service"). |
 | **Baltimore Declaration** | Declaración de visión a 10 años producida en el primer workshop de OI (Johns Hopkins, feb. 2022) para constituir OI como disciplina científica. |
+| **Reinforcement Learning (RL) / Aprendizaje por refuerzo** | Paradigma de entrenamiento de IA donde un agente aprende por prueba y error a partir de una señal de recompensa (positiva o negativa), en vez de ejemplos etiquetados. |
+| **Condicionamiento operante** | Teoría de B.F. Skinner: la conducta (humana o animal) se moldea por sus consecuencias — refuerzo (aumenta la conducta) o castigo (la disminuye). Base de la analogía "el bebé y el caramelo". |
+| **"Reward is Enough"** | Hipótesis de posición de DeepMind (Silver, Singh, Precup, Sutton, 2021): maximizar una señal de recompensa alcanzaría, por sí sola, para producir todas las capacidades asociadas a la inteligencia natural y artificial. Contestada por la réplica académica "Scalar reward is not enough" (2022). |
+| **Hard problem of consciousness / Problema difícil de la consciencia** | Formulado por David Chalmers: incluso explicando toda la función y estructura de un sistema, se puede seguir preguntando por qué eso genera experiencia subjetiva. Distingue los "problemas fáciles" (qué hace un sistema) del "problema difícil" (por qué se siente desde adentro). |
+| **Fisicalismo / funcionalismo** | Postura filosófica: la consciencia se reduce por completo a procesos físicos y funcionales — replicable en cualquier sustrato que cumpla la función correcta. |
+| **Dualismo** | Postura filosófica: la consciencia es un fenómeno de otra naturaleza, no reducible a lo físico. Incluye nociones religiosas/filosóficas como el alma. |
+| **Panpsiquismo** | Postura filosófica: la experiencia es una propiedad fundamental de la materia misma, presente en distinto grado en todo, no solo en cerebros complejos. |
 
 Ver también [`research.md`](research.md) para el desarrollo completo de cada concepto en contexto.

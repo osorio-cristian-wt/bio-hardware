@@ -178,12 +178,13 @@ Fuentes: [01](sources/01_smirnova_2023_organoid_intelligence.md), [02](sources/0
 
 ## 12. Índice de fuentes
 
-Ver [`sources/`](sources/) — 16 fuentes documentadas, numeradas 01-16. Índice temático:
+Ver [`sources/`](sources/) — 21 fuentes documentadas, numeradas 01-21. Índice temático:
 
-- **Técnico/fundacional:** [01](sources/01_smirnova_2023_organoid_intelligence.md), [02](sources/02_kagan_2022_dishbrain_neuron.md), [03](sources/03_cortical_labs_cl1.md), [04](sources/04_brainoware_2023.md), [05](sources/05_finalspark_neuroplatform_2024.md), [06](sources/06_oi_workshop_baltimore_declaration_2022.md), [16](sources/16_starting_sbi_lab_patterns_2025.md)
+- **Técnico/fundacional (biocomputación):** [01](sources/01_smirnova_2023_organoid_intelligence.md), [02](sources/02_kagan_2022_dishbrain_neuron.md), [03](sources/03_cortical_labs_cl1.md), [04](sources/04_brainoware_2023.md), [05](sources/05_finalspark_neuroplatform_2024.md), [06](sources/06_oi_workshop_baltimore_declaration_2022.md), [16](sources/16_starting_sbi_lab_patterns_2025.md)
 - **Ético/legal/social:** [07](sources/07_johns_hopkins_elsi_2023.md), [08](sources/08_playing_brains_dishbrain_ethics_2023.md), [09](sources/09_consentimiento_donacion_organoides_2024.md), [10](sources/10_national_academies_neural_organoids_chimeras.md), [13](sources/13_critica_filosofica_hanna_2023.md), [15](sources/15_beyond_consciousness_elsi_2024.md)
 - **Percepción pública / crítica interna:** [11](sources/11_percepcion_publica_2026.md), [12](sources/12_stat_news_2025_hype_backlash.md)
 - **Síntesis/divulgación:** [14](sources/14_orf_overview_ventajas_desafios.md)
+- **Paradigmas de entrenamiento y consciencia (eje pedagógico, ver [analisis/03](analisis/03_entrenamiento_comparado_y_el_debate_de_la_conciencia.md)):** [17](sources/17_reinforcement_learning_basics.md) (RL), [18](sources/18_operant_conditioning_skinner.md) (condicionamiento operante), [19](sources/19_reward_is_enough_2021.md) / [20](sources/20_scalar_reward_not_enough_2022.md) (¿alcanza la recompensa para explicar toda la inteligencia?), [21](sources/21_hard_problem_consciousness_chalmers.md) (el problema difícil de la consciencia)
 
 ## 13. Glosario
 
